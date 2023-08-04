@@ -1,0 +1,8 @@
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrValgrindMapa.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/gtest_main.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrTestsMapa.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrTestsSimCity.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/correrValgrindSimCity.dir
+C:/Users/Juan y Mariano/Desktop/2020-c1-tp3/cmake-build-debug/CMakeFiles/edit_cache.dir

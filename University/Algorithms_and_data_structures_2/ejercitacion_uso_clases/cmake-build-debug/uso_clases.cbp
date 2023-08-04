@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="uso_clases"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests_ejercitacion">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/tests_ejercitacion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests_ejercitacion"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests_ejercitacion/fast">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/tests_ejercitacion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests_ejercitacion/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests_algobot">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/tests_algobot.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests_algobot"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests_algobot/fast">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/tests_algobot.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 tests_algobot/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src"/>
+					<Add directory="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src/algobot.cpp">
+			<Option target="tests_ejercitacion"/>
+			<Option target="tests_algobot"/>
+		</Unit>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/src/algobot.h">
+			<Option target="tests_ejercitacion"/>
+			<Option target="tests_algobot"/>
+		</Unit>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests/gtest-1.8.1/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests/gtest-1.8.1/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests/tests_algobot.cpp">
+			<Option target="tests_algobot"/>
+		</Unit>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/tests/tests_funciones.cpp">
+			<Option target="tests_ejercitacion"/>
+		</Unit>
+		<Unit filename="F:/Mariano/UBA/algo 2/ejercitacion_uso_clases/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

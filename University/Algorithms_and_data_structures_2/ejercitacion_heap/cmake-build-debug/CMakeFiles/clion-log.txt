@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "F:\Mariano\UBA\algo 2\ejercitacion_heap"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Mariano/UBA/algo 2/ejercitacion_heap/cmake-build-debug

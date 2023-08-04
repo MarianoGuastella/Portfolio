@@ -1,0 +1,17 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: E:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f Makefile cmTC_52cda/fast && C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe  -f CMakeFiles\cmTC_52cda.dir\build.make CMakeFiles/cmTC_52cda.dir/build
+mingw32-make.exe: *** [Makefile:126: cmTC_52cda/fast] Error -1073741502
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/Mariano/UBA/algo 2/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f Makefile cmTC_fc53e/fast && Exit code 0xc0000142
+
+Generator: execution of make failed. Make command was: C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f Makefile cmTC_fc53e/fast && 
+
+

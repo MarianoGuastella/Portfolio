@@ -1,0 +1,2 @@
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe qc libgtest_main.a CMakeFiles/gtest_main.dir/test/gtest-1.8.1/gtest_main.cc.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ranlib.exe libgtest_main.a

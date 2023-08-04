@@ -1,0 +1,6 @@
+F:/Mariano/UBA/algo 2/taller_desarrollo_iteradores/cmake-build-debug/CMakeFiles/gtest.dir
+F:/Mariano/UBA/algo 2/taller_desarrollo_iteradores/cmake-build-debug/CMakeFiles/gtest_main.dir
+F:/Mariano/UBA/algo 2/taller_desarrollo_iteradores/cmake-build-debug/CMakeFiles/correrTests.dir
+F:/Mariano/UBA/algo 2/taller_desarrollo_iteradores/cmake-build-debug/CMakeFiles/correrValgrind.dir
+F:/Mariano/UBA/algo 2/taller_desarrollo_iteradores/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Mariano/UBA/algo 2/taller_desarrollo_iteradores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
