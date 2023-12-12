@@ -3,25 +3,25 @@
 
 ## 1. University
 
-Description: This section showcases various projects and assignments I've worked on during my university studies.
+<img src="images/UBA.png" alt="University" width="100">
 
-![University Projects](images/UBA.png)
+Description: This section showcases various projects and assignments I've worked on during my university studies.
 
 Link: [University](University)
 
 ## 2. RPA Blue Prism
 
-Description: Explore my work and projects related to Robotic Process Automation (RPA) using Blue Prism.
+<img src="images/BluePrism.jpg" alt="RPA Blue Prism" width="100">
 
-![RPA Blue Prism](images/BluePrism.jpg)
+Description: Explore my work and projects related to Robotic Process Automation (RPA) using Blue Prism.
 
 Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
 ## 3.  Javascript Certification (FCC)
 
-Description: This repository contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
+<img src="images/JavaScript.png" alt="Javascript Certification" width="100">
 
-![Javascript Certification](images/JavaScript.png)
+Description: This repository contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
 
 Link: [Javascript_Certification_FCC](Javascript_Certification_FCC)
 
