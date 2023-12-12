@@ -1,8 +1,10 @@
+# Operating Systems
+
 In this proyect I learned about Concurrency and Synchronization. Note that in this assignments there are
 pdf files simulating a paper about the subject, all the explanation about the problem and the solutionis there. 
 We used Latex, C++, Python (panda, numpy, seaborn).
 
-## Assignment 1:
+# Assignment 1:
 
 We made an implementation of a data structure called ConcurrentHashMap, which is based on a
 open hash table and uses linked lists to handle collisions. This structure has a similar interface
