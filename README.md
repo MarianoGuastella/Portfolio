@@ -1,15 +1,21 @@
 # My Portfolio
 
 
-## 1. University
+## 1. Challenges
 
-<img src="images/UBA.png" alt="University" width="100">
+Description: This section contains my solutions for some challenges that I saved.
 
-Description: This section showcases various projects and assignments I've worked on during my university studies.
+Link: [Challenges](Challenges)
 
-Link: [University](University)
+## 2. Javascript Certification (FCC)
 
-## 2. RPA Blue Prism
+<img src="images/JavaScript.png" alt="Javascript Certification" width="100">
+
+Description: This section contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
+
+Link: [Javascript_Certification_FCC](Javascript_Certification_FCC)
+
+## 3. RPA Blue Prism
 
 <img src="images/BluePrism.jpg" alt="RPA Blue Prism" width="100">
 
@@ -17,13 +23,13 @@ Description: This section contains my projects related to Robotic Process Automa
 
 Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
-## 3.  Javascript Certification (FCC)
+## 4. University
 
-<img src="images/JavaScript.png" alt="Javascript Certification" width="100">
+<img src="images/UBA.png" alt="University" width="100">
 
-Description: This section contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
+Description: This section showcases various projects and assignments I've worked on during my university studies.
 
-Link: [Javascript_Certification_FCC](Javascript_Certification_FCC)
+Link: [University](University) 
 
 ## About Me
 
