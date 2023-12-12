@@ -1,3 +1,5 @@
+# Algorithms and data structures 2
+
 There are numerous implementations of data structures (set, list, trie, heap, AVL tree), classes, iterators and templates. 
 There are exercises that use those implementations too.
 I learned about different sorting algorithms(Insertion, Binary Search, Bucket Sort, Quick Sort etc) and Divide and Conquer methods(Merge sort) among other things.
