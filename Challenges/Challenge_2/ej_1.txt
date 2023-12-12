@@ -1,0 +1,89 @@
+Create Signup Screen:
+Standalone screen for new user registration. The language of the page should be Spanish.
+
+Requirements:
+
+1. User Information Fields:
+. The signup screen fields are:
+	- Name
+	- Last Name
+	- Email
+	- Password
+	- Confirm Password
+. Fields color should be a pale grey.
+. Text should be aligned to left. Text inside this fields should be align vertically center.
+. Fields size should be: Email long size and all the remaining ones half of the long size.
+. It should be displayed as follows:
+	- Name ; Last Name
+	- Email
+	- Password ; Confirm Password
+. Align the fields by justify-center.
+
+
+2. Placeholder Text:
+
+. Each field should display a grey placeholder text indicating what information should be entered ending with " *".
+
+
+3. User Input Interaction:
+
+. When a user clicks on a field or start typing, the grey placeholder text should disappear.
+. The fields should validate the entered data and provide feedback in real-time.
+
+
+4. Data Validation
+
+. Name and surname should be all characters.
+. Email should follow a valid format(have an "@").
+. Password should be in range of [8-16] characters.
+. When data meets the requirements, the field outline should turn green a display a validation sign.
+
+
+5. User Agreement:
+
+. Include an orange slide button where users can read and agree to terms and conditions and privacy policy below the user information
+fields. It should be aligned to the center.
+. Agreement acceptance should be mandatory for signup.
+
+
+6. CAPTCHA:
+
+. Implement a CAPTCHA mechanism to confirm that the user is not a robot.
+. CAPTCHA service should be Google reCAPTCHA v2.
+. Align to center below user agreement.
+. CAPTCHA completion should be mandatory for signup.
+
+
+7. Sign-Up Button:
+
+. Include a "Sign Up ->" button at the bottom of the page with black font.
+. Text inside this button should be align vertically center.
+. The button should be grey and turn orange when all required fields are properly filled, user agreement and CAPTCHA are completed.
+. Size should be similar to the name field.
+. Align button to center below CAPTCHA.
+
+
+8. Security:
+
+. When the password is entered, each character must be hidden.
+
+
+9. Error Handling:
+
+. If data doesn't meet the requirements, it should be displayed to the user near the respective field.
+. Outline the field with red in case of invalid or missing data.
+
+
+Assumptions:
+
+1. User Behavior:
+. Assume that users will follow a typical signup process, filling out the required fields in order.
+
+2. CAPTCHA Service:
+. Assume that a third-party CAPTCHA service will be used, and integration will be successful.
+
+3. User Agreement Content:
+. Assume that the content and wording of the user agreement have been finalized and provided separately.
+
+4. Legal Compliance:
+. Assume that the user agreement complies with all legal and regulatory requirements.
