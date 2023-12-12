@@ -13,7 +13,7 @@ Link: [University](University)
 
 <img src="images/BluePrism.jpg" alt="RPA Blue Prism" width="100">
 
-Description: Explore my work and projects related to Robotic Process Automation (RPA) using Blue Prism.
+Description: This section contains my projects related to Robotic Process Automation (RPA) using Blue Prism.
 
 Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
@@ -21,7 +21,7 @@ Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
 <img src="images/JavaScript.png" alt="Javascript Certification" width="100">
 
-Description: This repository contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
+Description: This section contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
 
 Link: [Javascript_Certification_FCC](Javascript_Certification_FCC)
 
