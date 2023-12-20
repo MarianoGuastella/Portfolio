@@ -15,7 +15,13 @@ Description: This section contains my solutions and projects related to the Free
 
 Link: [Javascript_Certification_FCC](Javascript_Certification_FCC)
 
-## 3. RPA Blue Prism
+## 3. Projects
+
+Description: This section showcases a collection of projects, applications, and web apps that I have either developed or am currently working on.
+
+Link: [Projects](Projects)
+
+## 4. RPA Blue Prism
 
 <img src="images/BluePrism.jpg" alt="RPA Blue Prism" width="100">
 
@@ -23,7 +29,7 @@ Description: This section contains my projects related to Robotic Process Automa
 
 Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
-## 4. University
+## 5. University
 
 <img src="images/UBA.png" alt="University" width="100">
 
