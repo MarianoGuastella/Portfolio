@@ -33,7 +33,11 @@ Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
 <img src="images/UBA.png" alt="University" width="100">
 
-Description: This section showcases various projects and assignments I've worked on during my university studies.
+Description: This section showcases various projects and assignments I've worked on during my university studies. It reflects my individual contributions and collaborative efforts in diverse academic endeavors.
+In collaboration with : 
+- Gabriel Damburiarena
+- Ignacio Silva
+- Victoria Espil
 
 Link: [University](University) 
 
