@@ -1,46 +1,46 @@
 # My Portfolio
 
 
-## 1. Challenges
+## Challenges
 
-Description: This section contains my solutions for some challenges that I saved.
+This section contains my solutions for some challenges that I saved.
 
 Link: [Challenges](Challenges)
 
-## 2. Javascript Certification (FCC)
+## Javascript Certification (FCC)
 
 <img src="images/JavaScript.png" alt="Javascript Certification" width="100">
 
-Description: This section contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
+This section contains my solutions and projects related to the FreeCodeCamp (FCC) Javascript Certification.
 
 Link: [Javascript_Certification_FCC](Javascript_Certification_FCC)
 
-## 3. Projects
+## Projects
 
-Description: This section showcases a collection of projects, applications, and web apps that I have either developed or am currently working on.
+This section showcases a collection of projects, applications, and web apps that I have either developed or am currently working on.
 
 Link: [Projects](Projects)
 
-## 4. RPA Blue Prism
+## RPA Blue Prism
 
 <img src="images/BluePrism.jpg" alt="RPA Blue Prism" width="100">
 
-Description: This section contains my projects related to Robotic Process Automation (RPA) using Blue Prism.
+This section contains my projects related to Robotic Process Automation (RPA) using Blue Prism.
 
 Link: [RPA_Blue_Prism](RPA_Blue_Prism)
 
-## 5. University
+## Studies
 
-<img src="images/UBA.png" alt="University" width="100">
+<img src="images/UBA.png" alt="Studies" width="100">
 
-Description: This section showcases various projects and assignments I've worked on during my university studies. It reflects my individual contributions and collaborative efforts in diverse academic endeavors.
+This section showcases various projects and assignments I've worked on during my university studies. It reflects my individual contributions and collaborative efforts in diverse academic endeavors.
 
 In collaboration with : 
 - Gabriel Damburiarena
 - Ignacio Silva
 - Victoria Espil
 
-Link: [University](University) 
+Link: [Studies](Studies) 
 
 ## About Me
 
