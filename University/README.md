@@ -1,6 +1,6 @@
 The university repository contains projects spanning various subjects:
 
-# Algorithms and Data Structures I (Python):
+# Algorithms and Data Structures 1:
 
 Includes a console-based Minesweeper game, a tweet generator using Markov chains, and a recursive drawing generator.
 Key concepts: Python, logic, data structures, file manipulation, object-oriented programming (OOP).
